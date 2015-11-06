@@ -1,0 +1,55 @@
+e
+Last active a day ago
+  Star 9
+  Fork 8
+ 
+ Code
+ Revisions 3
+ Stars 9
+ Forks 8
+Embed URL
+
+<script src="https://gist.github.com/kleber-swf/6e62de2ed95cd2c0f2de.js"></script>
+
+HTTPS clone URL
+
+https://gist.github.com/6e62de2ed95cd2c0f2de.git
+
+You can clone with  HTTPS, SSH, or Subversion. 
+ Clone in Desktop
+ Download ZIP
+Raw  .gitignore
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
